@@ -1,0 +1,7 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/parrotpy.egg-info/PKG-INFO
+src/parrotpy.egg-info/SOURCES.txt
+src/parrotpy.egg-info/dependency_links.txt
+src/parrotpy.egg-info/top_level.txt

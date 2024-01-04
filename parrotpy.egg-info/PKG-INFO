@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: parrotpy
+Version: 0.0.1
+Author-email: Elijah Mathews <apj@elijahmathews.com>
+Requires-Python: >=3.7
+License-File: LICENSE.md

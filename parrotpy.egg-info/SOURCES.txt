@@ -1,0 +1,12 @@
+LICENSE.md
+README.md
+pyproject.toml
+parrotpy/__init__.py
+parrotpy/models.py
+parrotpy/obs.py
+parrotpy/sps.py
+parrotpy/utils.py
+parrotpy.egg-info/PKG-INFO
+parrotpy.egg-info/SOURCES.txt
+parrotpy.egg-info/dependency_links.txt
+parrotpy.egg-info/top_level.txt
